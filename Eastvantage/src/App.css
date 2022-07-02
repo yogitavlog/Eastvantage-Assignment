@@ -1,0 +1,20 @@
+.App {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgb(223, 220, 220);
+  border: 1px solid rgb(36, 36, 36);
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 20px;
+}
+
+h1{
+  text-align: center;
+  text-transform: capitalize;
+}
+
+button {
+  padding: 5px 10px;
+}
